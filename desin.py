@@ -51,7 +51,7 @@ def iniciar_upload(janela_backup):
     for widget in janela_backup.winfo_children():
         widget.config(state=DISABLED)
 
-    caminho_pasta_teste = r'D:\pogramacao\teste'  # Substitua com o caminho correto da sua pasta
+    caminho_pasta_teste = r'C:\Mario Monteiro\MM'  # Substitua com o caminho correto da sua pasta
 
     if not os.path.exists(caminho_pasta_teste):
         print(f"A pasta '{caminho_pasta_teste}' não existe.")
