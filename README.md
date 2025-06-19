@@ -2,7 +2,7 @@
 
 **TkBackupDrive** é um utilitário simples de **backup automatizado com interface gráfica**, feito em Python com `Tkinter` e integração com a **API do Google Drive**.
 
-Foi pensado para facilitar o envio de pastas locais — no meu contexto, backup do sistema contabil — diretamente para o Google Drive, com nomeação automática por **data e hora**.
+Foi pensado para facilitar o envio de pastas locais — no meu contexto, backup de sistema contabil — diretamente para o Google Drive, com nomeação automática por **data e hora**.
 
 ---
 
@@ -40,7 +40,7 @@ TkBackupDrive/
 ### ☁️ Upload para o Google Drive
 
 - O programa acessa a pasta definida (`C:\Mario Monteiro\MM`);
-- Cria automaticamente uma pasta no Drive com nome `Backup_YYYY-MM-DD_HH-MM-SS`;
+- Cria automaticamente uma pasta no Drive nomeado com a data e hora da realização do backup `Backup_YYYY-MM-DD_HH-MM-SS`;
 - Faz upload de todos os arquivos e subpastas usando a **Google Drive API**.
 
 ---
@@ -49,12 +49,14 @@ TkBackupDrive/
 
 ### 1. Instale as dependências:
 
-pip install google-api-python-client google-auth google-auth-oauthlib
+-pip install google-api-python-client google-auth google-auth-oauthlib
+
+### 2. rode o arquivo "main.py".
 
 ---
 
 ## ⚠️ Observações: 
-o caminho da pasta está fixo no código (C:\Mario Monteiro\MM). Edite os arquivos desin.py e main.py para apontar para o diretório desejado.
+o caminho da pasta está fixo no código (C:\Mario Monteiro\MM). Edite os arquivos "desin.py" e "main.py" para apontar para o diretório desejado.
 
 Este projeto foi descontinuado após testes, devido a algumas limitações:
 
