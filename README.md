@@ -53,7 +53,7 @@ pip install google-api-python-client google-auth google-auth-oauthlib
 
 ---
 
-##⚠️ Observações: 
+## ⚠️ Observações: 
 o caminho da pasta está fixo no código (D:\pogramacao\teste). Edite os arquivos mario3.py e desin.py para apontar para o diretório desejado.
 
 Este projeto foi descontinuado após testes, devido a algumas limitações:
