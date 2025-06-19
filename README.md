@@ -2,7 +2,7 @@
 
 **TkBackupDrive** é um utilitário simples de **backup automatizado com interface gráfica**, feito em Python com `Tkinter` e integração com a **API do Google Drive**.
 
-Foi pensado para facilitar o envio de pastas locais — como backups de sistemas contábeis — diretamente para o Google Drive, com nomeação automática por **data e hora**.
+Foi pensado para facilitar o envio de pastas locais — no meu contexto, backup do sistema contabil — diretamente para o Google Drive, com nomeação automática por **data e hora**.
 
 ---
 
