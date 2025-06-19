@@ -18,14 +18,16 @@ Foi pensado para facilitar o envio de pastas locais — no meu contexto, backup 
 
 ## 📁 Estrutura do Projeto
 
+```plaintext
 TkBackupDrive/
-├── main.py # ponto de entrada (interface + inicialização)
-├── desin.py # tela de login e controle da interface
-├── mario3.py # autenticação + upload para o Drive
-├── logo.png # imagem exibida na janela
-├── token.json # token gerado após autenticação
-├── credentials.json # arquivo de credenciais da API
+├── main.py           # ponto de entrada (interface + inicialização)
+├── desin.py          # tela de login e controle da interface
+├── mario3.py         # autenticação + upload para o Drive
+├── logo.png          # imagem exibida na janela
+├── token.json        # token gerado após autenticação
+├── credentials.json  # arquivo de credenciais da API
 └── pycache/
+```
 
 
 ---
