@@ -66,11 +66,12 @@ Este projeto foi descontinuado após testes, devido a algumas limitações:
 - Ferramentas de empacotamento (como pyinstaller) não funcionaram bem com dependências como a Google API;
 - O processo de backup, mesmo com arquivos pequenos (~250MB), levava cerca de 4 a 5 horas para concluir.
 
+Após identificar as limitações as limitações a cima, busquei outras ferramentas dei continuidade ao projeto usando **C#** e obtive excelentes resultados!
+
 Mesmo assim, o projeto serviu como prova de conceito e aprendizado sobre:
 
 - Integração com Google Drive via API;
 - Interface gráfica com Tkinter;
-- Criação de ferramentas internas para automação de rotina.
-
+- Criação de ferramentas internas para automação de rotina.  
 
 > Projeto criado por Nathan Fernandes Alves para automatizar backups locais com envio direto ao Google Drive.
