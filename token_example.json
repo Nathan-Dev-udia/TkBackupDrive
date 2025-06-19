@@ -1,0 +1,9 @@
+{
+  "token": "SEU_TOKEN_AQUI",
+  "refresh_token": "SEU_REFRESH_TOKEN",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "client_id": "SEU_CLIENT_ID",
+  "client_secret": "SEU_CLIENT_SECRET",
+  "scopes": ["https://www.googleapis.com/auth/drive.file"],
+  "expiry": "2025-01-01T00:00:00Z"
+}
