@@ -55,7 +55,7 @@ TkBackupDrive/
 
 ---
 
-## ⚠️ Observações: 
+## ⚠️ Observações 
 o caminho da pasta está fixo no código (C:\Mario Monteiro\MM). Edite os arquivos "desin.py" e "main.py" para apontar para o diretório desejado.
 
 Este projeto foi descontinuado após testes, devido a algumas limitações:
