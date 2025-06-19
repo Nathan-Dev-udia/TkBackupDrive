@@ -63,7 +63,7 @@ def upload_pasta_para_drive(service, pasta_local, id_pasta_pai=None, nome_pasta=
 # Função principal (não será chamada diretamente pelo frontend, mas serve para a execução completa)
 def main():
     # Caminho fixo da pasta
-    caminho_pasta_teste = r'D:\pogramacao\teste'  # Atualize para o seu caminho de pasta
+    caminho_pasta_teste = r'C:\Mario Monteiro\MM'  # Atualize para o seu caminho de pasta
 
     if not os.path.exists(caminho_pasta_teste):
         print(f"A pasta '{caminho_pasta_teste}' não existe.")
