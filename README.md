@@ -66,7 +66,7 @@ Este projeto foi descontinuado após testes, devido a algumas limitações:
 - Ferramentas de empacotamento (como pyinstaller) não funcionaram bem com dependências como a Google API;
 - O processo de backup, mesmo com arquivos pequenos (~250MB), levava cerca de 4 a 5 horas para concluir.
 
-Após identificar as limitações as limitações a cima, busquei outras ferramentas dei continuidade ao [projeto usando **C#**](https://github.com/Nathan-Dev-udia/BackupDriveCSharp) e obtive excelentes resultados!
+Após identificar as limitações a cima, busquei outras ferramentas e dei continuidade ao [projeto usando **C#**](https://github.com/Nathan-Dev-udia/BackupDriveCSharp) e obtive excelentes resultados!
 
 Mesmo assim, o projeto serviu como prova de conceito e aprendizado sobre:
 
