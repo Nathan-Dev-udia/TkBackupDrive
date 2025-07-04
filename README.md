@@ -1,4 +1,7 @@
 # 🗂️ TkBackupDrive
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-FF6F61?style=flat&logo=python&logoColor=white)
+![Google Drive API](https://img.shields.io/badge/Google%20Drive%20API-4285F4?style=flat&logo=google-drive&logoColor=white)
 
 **TkBackupDrive** é um utilitário simples de **backup automatizado com interface gráfica**, feito em Python com `Tkinter` e integração com a **API do Google Drive**.
 
